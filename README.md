@@ -302,6 +302,7 @@ The dashboard provides an executive-level overview of customer behavior.
 * Shipping Type
 
 ### Visualizations
+<img width="653" height="371" alt="image" src="https://github.com/user-attachments/assets/06173f3b-d993-4f17-a483-44c21ad6508e" />
 
 #### Subscription Analysis
 
