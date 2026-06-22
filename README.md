@@ -1,4 +1,5 @@
 # Adidas Customer Behaviour Analytics
+<img width="682" height="386" alt="image" src="https://github.com/user-attachments/assets/4eeabfe9-b83c-477c-93fa-9e8cb1cf7a4b" />
 
 ## Project Overview
 
@@ -335,6 +336,13 @@ The dashboard provides an executive-level overview of customer behavior.
 * Customer behavior varies considerably across age segments and product categories.
 
 ---
+## 📑 Project Report
+
+A detailed business report and presentation created using Gamma is included in this repository.
+<img width="686" height="388" alt="image" src="https://github.com/user-attachments/assets/785c9b6f-08b5-438b-b308-3c0c3e7f527d" />
+
+<img width="685" height="388" alt="image" src="https://github.com/user-attachments/assets/2c2c7d85-619e-4d6e-8e0d-514a46d40922" />
+
 
 ## Future Enhancements
 
